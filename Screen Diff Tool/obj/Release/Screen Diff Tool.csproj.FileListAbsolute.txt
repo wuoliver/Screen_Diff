@@ -1,0 +1,12 @@
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\bin\Release\Screen Diff Tool.exe.config
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\bin\Release\Screen Diff Tool.exe
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\bin\Release\Screen Diff Tool.pdb
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen_Diff_Tool.Screen_Diff.resources
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen_Diff_Tool.Properties.Resources.resources
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen Diff Tool.csproj.GenerateResource.Cache
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen Diff Tool.exe
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen Diff Tool.pdb
+C:\Users\adrom\Documents\AMD\Screen Diff\Screen Diff Tool\Screen Diff Tool\obj\Release\Screen Diff Tool.csprojResolveAssemblyReference.cache
+C:\Users\adrom\Documents\GitHub\Screen_Diff\Screen Diff Tool\bin\Release\Screen Diff Tool.exe.config
+C:\Users\adrom\Documents\GitHub\Screen_Diff\Screen Diff Tool\obj\Release\Screen Diff Tool.exe
+C:\Users\adrom\Documents\GitHub\Screen_Diff\Screen Diff Tool\obj\Release\Screen Diff Tool.pdb
